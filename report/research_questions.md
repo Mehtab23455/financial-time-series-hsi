@@ -12,4 +12,6 @@ The primary research questions are:
 
 4. Can a GARCH(1,1) model adequately capture the volatility dynamics of the HSI?
 
+5. Do machine-learning models improve short-horizon volatility forecasting compared to GARCH-type models for Asian equity indices?
+
 These questions guide the empirical analysis and model selection throughout the study.

@@ -1,6 +1,7 @@
 # Volatility Dynamics of the Hang Seng Index
 
-This repository presents a master’s-level empirical study of volatility behavior in the Hang Seng Index (HSI) using time series econometric techniques.
+This repository contains an empirical study of equity market volatility using ARCH/GARCH models. The project begins with a single-market analysis of the Hang Seng Index and is later extended to a comparative study with the Nikkei 225 to examine cross-market volatility persistence in Asia.
+
 
 ## Research Objective
 
