@@ -1,4 +1,4 @@
-# Volatility Dynamics of the Hang Seng Index
+# Volatility Dynamics of the Hang Seng Index and Nikkei 225
 
 This repository contains an empirical study of equity market volatility using ARCH/GARCH models. The project begins with a single-market analysis of the Hang Seng Index and is later extended to a comparative study with the Nikkei 225 to examine cross-market volatility persistence in Asia.
 
